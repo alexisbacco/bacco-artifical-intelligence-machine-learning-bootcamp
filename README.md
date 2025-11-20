@@ -7,7 +7,7 @@ This repository contains all of the code, notebooks, and materials I have worked
 
 ## Content Overview
 
-| Folders | Description |
+| Content | Description |
 |---------|-------------|
 | My Exercises | This folder contains content and jupyter notebook of my various excerices I have completed in the Data Science Bootcamp. Some example of the modern tools I used were Python, Pandas, NumPy, and Matplotlib. |
 | My Projects | This folder contains real-life scenarios I have completed in the Data Science Bootcamp. I completed 3 milestone projects ranging from Classification, Regression, and Deep Learning projects. More information on each project is described further below. |
