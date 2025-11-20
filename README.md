@@ -8,7 +8,7 @@ This repository contains all of the code, notebooks, and materials I have worked
 ## Content Overview
 
 | Folders | Description |
-|---------|----------|-------------|
+|---------|-------------|
 | My exercises | This folder contains content and jupyter notebook of my various excerices I have completed in the Data Science Bootcamp. Some example of the modern tools I used were Python, Pandas, NumPy, and Matplotlib. |
 | My Projects | This folder contains real-life scenarios I have completed in the Data Science Bootcamp. I completed 3 milestone projects ranging from Classification, Regression, and Deep Learning projects. More information on each project is described further below. |
 | Milestone Project 1: End-to-end Heart Disease Classification | In this project I created a machine learning model that is capable of classifying if someone has heart disease or not based on their health characteristics. I started with a raw dataset and worked through performing an exploratory data analysis (EDA) on the data before trying out several different machine learning models to see which performs best. |
