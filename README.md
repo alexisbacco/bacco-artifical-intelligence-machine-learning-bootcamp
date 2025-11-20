@@ -5,7 +5,7 @@ This repository contains all of the code, notebooks, and materials I have worked
 
 ---
 
-## 📚 Sections Overview
+## Content Overview
 
 | Folders | Description |
 |---------|----------|-------------|
