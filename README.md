@@ -1,7 +1,7 @@
 # Artificial Intelligence and Machine Learning Bootcamp
 
 Welcome!  
-This repository contains all of the code, notebooks, and materials I have worked on and completed in the **"Artificial Intelligence & Machine Learning, Data Science Bootcamp"** on Udemy.
+This repository contains all of the code, notebooks, and materials I have worked on in the **"Artificial Intelligence & Machine Learning, Data Science Bootcamp"** on Udemy.
 
 ---
 
@@ -19,5 +19,5 @@ This repository contains all of the code, notebooks, and materials I have worked
 ---
 
 ## 📝 Notes
-- All project content and data I have completed came straight from Instructors Andrei Neagoie and Daniel Rourke. They guided me step by step through the projects so I could complete them in my own notebooks.
+- All project content and data I have completed were provided by Instructors Andrei Neagoie and Daniel Rourke (taken from Kaggle). They guided me step-by-step through the projects so I could complete them in my own notebooks.
 - Some Datasets are not included due to exceeding GitHub’s size limits. However, I have added all Jupter notebooks and relevent information.
