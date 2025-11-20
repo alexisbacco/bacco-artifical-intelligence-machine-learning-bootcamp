@@ -1,6 +1,6 @@
 # Artifical Intelligence and Machine Learning Bootcamp
 
-Welcome! This repository contains all of the code, notebooks, and materials I have worked on and completed in the t'Artifical Intelligence & Machine Learning, Data Science Bootcamp' on Udemy.
+Welcome! This repository contains all of the code, notebooks, and materials I have worked on and completed in the 'Artifical Intelligence & Machine Learning, Data Science Bootcamp' on Udemy.
 
 Section	Resource	Description
 00	A 6 step framework for approaching machine learning projects	A guideline for different kinds of machine learning projects and how to break them down into smaller steps.
